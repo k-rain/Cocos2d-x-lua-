@@ -1,3 +1,4 @@
 src/MyDebug.lua
 !*.exe
 !*.dll
+src/LuaDebugjit.lua
