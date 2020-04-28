@@ -2,3 +2,5 @@ src/MyDebug.lua
 !*.exe
 !*.dll
 src/LuaDebugjit.lua
+HelloTank.pdb
+HelloTank.ilk

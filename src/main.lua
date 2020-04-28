@@ -15,6 +15,7 @@ end
 
 require "config"
 require "cocos.init"
+require "MyGlobal"
 
 local function main()
     require("app.MyApp"):create():run()
